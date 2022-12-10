@@ -19,5 +19,13 @@
     "genre": "Sport",
     "date": "21 October, 2022",
     "platform": ["PC", "PS4"]
-  }
+  },
+  { "id": 3,
+    "title": "Age of Empire 4",
+    "img": "https://kodegames.com/img/videojuego/age-of-empire-4/age-of-empire-4-cover.webp",
+    "genre": "Strategy",
+    "date": "12 October, 2022",
+    "platform": ["PC", "PS4"]
+  },
+  
 ]
