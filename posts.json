@@ -2,12 +2,12 @@
   {
     "id": 1,
     "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
-    "description": "Lorem, <img src='https://res.cloudinary.com/dnvq1ffot/image/upload/v1688934502/cld-sample-5.jpg'>. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
+    "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
     "category": [
       " JavaScript,  ",
       " CSS "
     ],
-    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1688934502/cld-sample-5.jpg",
+    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1689609594/javascript_abiroi.webp",
     "author": "J. Navarro"
   },
   {
@@ -18,18 +18,18 @@
       " JavaScript,  ",
       " CSS "
     ],
-    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1688934502/cld-sample-5.jpg",
+    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1689609594/javascript_abiroi.webp",
     "author": "J. Navarro"
   },
   {
     "id": 3,
-    "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+    "title": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1689609594/javascript_abiroi.webp",
     "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A possimus excepturi aliquid nihil cumque ipsam facere aperiam at! Ea dolorem ratione sit debitis deserunt repellendus numquam ab vel perspiciatis corporis!",
     "category": [
       " JavaScript,  ",
       " CSS "
     ],
-    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1688934502/cld-sample-5.jpg",
+    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1689609594/javascript_abiroi.webp",
     "author": "J. Navarro"
   },
   {
@@ -40,7 +40,7 @@
       " JavaScript,  ",
       " CSS "
     ],
-    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1688934502/cld-sample-5.jpg",
+    "img": "https://res.cloudinary.com/dnvq1ffot/image/upload/v1689609594/javascript_abiroi.webp",
     "author": "J. Navarro"
   }
 ]
